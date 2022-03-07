@@ -1,0 +1,221 @@
+\begin{thebibliography}{10}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{chawla2009data}
+\bibauthor{CHAWLA N~V}\@. \bibtitle{Data mining for imbalanced datasets: An
+  overview}\bibmark{[G]} //\thinspace{}\bibbooktitle{Data mining and knowledge
+  discovery handbook}\@. \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{Springer}\@, \bibyear{2009}\thinspace{}\textnormal{:
+  }\bibpages{875\thinspace{}\textnormal{--}\thinspace{}886}\@.
+
+\bibitem{barua2012mwmote}
+\bibauthor{BARUA S\@, ISLAM M~M\@, YAO X, et~al}\@. \bibtitle{MWMOTE--majority
+  weighted minority oversampling technique for imbalanced data set
+  learning}\bibmark{[J]}\@. \bibjournal{IEEE Transactions on Knowledge and Data
+  Engineering}\@, \bibyear{2012}\@,
+  \bibvolume{26}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{405\thinspace{}\textnormal{--}\thinspace{}425}\@.
+
+\bibitem{wallace2011class}
+\bibauthor{WALLACE B~C\@, SMALL K\@, BRODLEY C~E, et~al}\@. \bibtitle{Class
+  imbalance, redux}\bibmark{[A]}\@. \bibbooktitle{2011 IEEE 11th international
+  conference on data mining}[C]\@, \bibyear{2011}\thinspace{}\textnormal{:
+  }\bibpages{754\thinspace{}\textnormal{--}\thinspace{}763}\@.
+
+\bibitem{krawczyk2016learning}
+\bibauthor{KRAWCZYK B}\@. \bibtitle{Learning from imbalanced data: open
+  challenges and future directions}\bibmark{[J]}\@. \bibjournal{Progress in
+  Artificial Intelligence}\@, \bibyear{2016}\@,
+  \bibvolume{5}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{221\thinspace{}\textnormal{--}\thinspace{}232}\@.
+
+\bibitem{dong2017class}
+\bibauthor{DONG Q\@, GONG S\@, ZHU X}\@. \bibtitle{Class rectification hard
+  mining for imbalanced deep learning}\bibmark{[A]}\@.
+  \bibbooktitle{Proceedings of the IEEE International Conference on Computer
+  Vision}[C]\@, \bibyear{2017}\thinspace{}\textnormal{:
+  }\bibpages{1851\thinspace{}\textnormal{--}\thinspace{}1860}\@.
+
+\bibitem{wang2016training}
+\bibauthor{WANG S\@, LIU W\@, WU J, et~al}\@. \bibtitle{Training deep neural
+  networks on imbalanced data sets}\bibmark{[A]}\@. \bibbooktitle{2016
+  international joint conference on neural networks (IJCNN)}[C]\@,
+  \bibyear{2016}\thinspace{}\textnormal{:
+  }\bibpages{4368\thinspace{}\textnormal{--}\thinspace{}4374}\@.
+
+\bibitem{ting2000comparative}
+\bibauthor{TING K~M}\@. \bibtitle{A comparative study of cost-sensitive
+  boosting algorithms}\bibmark{[A]}\@. \bibbooktitle{In Proceedings of the 17th
+  International Conference on Machine Learning}[C]\@, \bibyear{2000}\@.
+
+\bibitem{huang2016learning}
+\bibauthor{HUANG C\@, LI Y\@, LOY C~C, et~al}\@. \bibtitle{Learning deep
+  representation for imbalanced classification}\bibmark{[A]}\@.
+  \bibbooktitle{Proceedings of the IEEE conference on computer vision and
+  pattern recognition}[C]\@, \bibyear{2016}\thinspace{}\textnormal{:
+  }\bibpages{5375\thinspace{}\textnormal{--}\thinspace{}5384}\@.
+
+\bibitem{karras2017progressive}
+\bibauthor{KARRAS T\@, AILA T\@, LAINE S, et~al}\@. \bibtitle{Progressive
+  growing of gans for improved quality, stability, and
+  variation}\bibmark{[J]}\@. \bibjournal{arXiv preprint arXiv:1710.10196}\@,
+  \bibyear{2017}\@.
+
+\bibitem{zhu2017data}
+\bibauthor{ZHU X\@, LIU Y\@, QIN Z, et~al}\@. \bibtitle{Data augmentation in
+  emotion classification using generative adversarial networks}\bibmark{[J]}\@.
+  \bibjournal{arXiv preprint arXiv:1711.00648}\@, \bibyear{2017}\@.
+
+\bibitem{goodfellow2014generative}
+\bibauthor{GOODFELLOW I\@, POUGET-ABADIE J\@, MIRZA M, et~al}\@.
+  \bibtitle{Generative adversarial nets}\bibmark{[J]}\@. \bibjournal{Advances
+  in neural information processing systems}\@, \bibyear{2014}\@,
+  \bibvolume{27}\thinspace{}\textnormal{:
+  }\bibpages{2672\thinspace{}\textnormal{--}\thinspace{}2680}\@.
+
+\bibitem{goodfellow2016nips}
+\bibauthor{GOODFELLOW I}\@. \bibtitle{NIPS 2016 tutorial: Generative
+  adversarial networks}\bibmark{[J]}\@. \bibjournal{arXiv preprint
+  arXiv:1701.00160}\@, \bibyear{2016}\@.
+
+\bibitem{sutskever2015towards}
+\bibauthor{SUTSKEVER I\@, JOZEFOWICZ R\@, GREGOR K, et~al}\@. \bibtitle{Towards
+  principled unsupervised learning}\bibmark{[J]}\@. \bibjournal{arXiv preprint
+  arXiv:1511.06440}\@, \bibyear{2015}\@.
+
+\bibitem{mescheder2018training}
+\bibauthor{MESCHEDER L\@, GEIGER A\@, NOWOZIN S}\@. \bibtitle{Which training
+  methods for GANs do actually converge?}\bibmark{[J]}\@. \bibjournal{arXiv
+  preprint arXiv:1801.04406}\@, \bibyear{2018}\@.
+
+\bibitem{nagarajan2017gradient}
+\bibauthor{NAGARAJAN V\@, KOLTER J~Z}\@. \bibtitle{Gradient descent GAN
+  optimization is locally stable}\bibmark{[A]}\@. \bibbooktitle{Advances in
+  neural information processing systems}[C]\@,
+  \bibyear{2017}\thinspace{}\textnormal{:
+  }\bibpages{5585\thinspace{}\textnormal{--}\thinspace{}5595}\@.
+
+\bibitem{mirza2014conditional}
+\bibauthor{MIRZA M\@, OSINDERO S}\@. \bibtitle{Conditional generative
+  adversarial nets}\bibmark{[J]}\@. \bibjournal{arXiv preprint
+  arXiv:1411.1784}\@, \bibyear{2014}\@.
+
+\bibitem{douzas2018effective}
+\bibauthor{DOUZAS G\@, BACAO F}\@. \bibtitle{Effective data generation for
+  imbalanced learning using conditional generative adversarial
+  networks}\bibmark{[J]}\@. \bibjournal{Expert Systems with applications}\@,
+  \bibyear{2018}\@, \bibvolume{91}\thinspace{}\textnormal{:
+  }\bibpages{464\thinspace{}\textnormal{--}\thinspace{}471}\@.
+
+\bibitem{arjovsky2017towards}
+\bibauthor{ARJOVSKY M\@, BOTTOU L}\@. \bibtitle{Towards principled methods for
+  training generative adversarial networks}\bibmark{[J]}\@. \bibjournal{arXiv
+  preprint arXiv:1701.04862}\@, \bibyear{2017}\@.
+
+\bibitem{arjovsky2017wasserstein}
+\bibauthor{ARJOVSKY M\@, CHINTALA S\@, BOTTOU L}\@. \bibtitle{Wasserstein
+  gan}\bibmark{[J]}\@. \bibjournal{arXiv preprint arXiv:1701.07875}\@,
+  \bibyear{2017}\@.
+
+\bibitem{kingma2013auto}
+\bibauthor{KINGMA D~P\@, WELLING M}\@. \bibtitle{Auto-encoding variational
+  bayes}\bibmark{[J]}\@. \bibjournal{arXiv preprint arXiv:1312.6114}\@,
+  \bibyear{2013}\@.
+
+\bibitem{chawla2002smote}
+\bibauthor{CHAWLA N~V\@, BOWYER K~W\@, HALL L~O, et~al}\@. \bibtitle{SMOTE:
+  synthetic minority over-sampling technique}\bibmark{[J]}\@.
+  \bibjournal{Journal of artificial intelligence research}\@, \bibyear{2002}\@,
+  \bibvolume{16}\thinspace{}\textnormal{:
+  }\bibpages{321\thinspace{}\textnormal{--}\thinspace{}357}\@.
+
+\bibitem{maaten2008visualizing}
+\bibauthor{MAATEN L~V~D\@, HINTON G}\@. \bibtitle{Visualizing data using
+  t-SNE}\bibmark{[J]}\@. \bibjournal{Journal of machine learning research}\@,
+  \bibyear{2008}\@, \bibvolume{9}\bibnumber{(Nov)}\thinspace{}\textnormal{:
+  }\bibpages{2579\thinspace{}\textnormal{--}\thinspace{}2605}\@.
+
+\bibitem{chongxuan2017triple}
+\bibauthor{CHONGXUAN L\@, XU T\@, ZHU J, et~al}\@. \bibtitle{Triple generative
+  adversarial nets}\bibmark{[A]}\@. \bibbooktitle{Advances in neural
+  information processing systems}[C]\@, \bibyear{2017}\thinspace{}\textnormal{:
+  }\bibpages{4088\thinspace{}\textnormal{--}\thinspace{}4098}\@.
+
+\bibitem{villani2008optimal}
+\bibauthor{VILLANI C}\@. \bibbooktitle{Optimal transport: old and
+  new\thinspace{}\textnormal{: }Vol~338}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{Springer Science
+  \& Business Media}\@, \bibyear{2008}\@.
+
+\bibitem{tang2017question}
+\bibauthor{TANG D\@, DUAN N\@, QIN T, et~al}\@. \bibtitle{Question answering
+  and question generation as dual tasks}\bibmark{[J]}\@. \bibjournal{arXiv
+  preprint arXiv:1706.02027}\@, \bibyear{2017}\@.
+
+\bibitem{niu2018multi}
+\bibauthor{NIU X\@, RAO S\@, CARPUAT M}\@. \bibtitle{Multi-task neural models
+  for translating between styles within and across languages}\bibmark{[J]}\@.
+  \bibjournal{arXiv preprint arXiv:1806.04357}\@, \bibyear{2018}\@.
+
+\bibitem{bahdanau2014neural}
+\bibauthor{BAHDANAU D\@, CHO K\@, BENGIO Y}\@. \bibtitle{Neural machine
+  translation by jointly learning to align and translate}\bibmark{[J]}\@.
+  \bibjournal{arXiv preprint arXiv:1409.0473}\@, \bibyear{2014}\@.
+
+\bibitem{luo2019dual}
+\bibauthor{LUO F\@, LI P\@, ZHOU J, et~al}\@. \bibtitle{A dual reinforcement
+  learning framework for unsupervised text style transfer}\bibmark{[J]}\@.
+  \bibjournal{arXiv preprint arXiv:1905.10060}\@, \bibyear{2019}\@.
+
+\bibitem{rao-tetreault-2018-dear}
+\bibauthor{RAO S\@, TETREAULT J}\@. \bibtitle{Dear Sir or Madam, May {I}
+  Introduce the {GYAFC} Dataset: Corpus, Benchmarks and Metrics for Formality
+  Style Transfer}\bibmark{[A/OL]}\@. \bibbooktitle{Proceedings of the 2018
+  Conference of the North {A}merican Chapter of the Association for
+  Computational Linguistics: Human Language Technologies, Volume 1 (Long
+  Papers)}[C]\@, \bibaddress{New Orleans, Louisiana}\thinspace{}\textnormal{:
+  }\bibpublisher{Association for Computational Linguistics}\@,
+  \bibyear{2018}\thinspace{}\textnormal{:
+  }\bibpages{129\thinspace{}\textnormal{--}\thinspace{}140}\@.
+  \newline\url{https://www.aclweb.org/anthology/N18-1012}\@.
+
+\bibitem{papineni2002bleu}
+\bibauthor{PAPINENI K\@, ROUKOS S\@, WARD T, et~al}\@. \bibtitle{Bleu: a method
+  for automatic evaluation of machine translation}\bibmark{[A]}\@.
+  \bibbooktitle{Proceedings of the 40th annual meeting of the Association for
+  Computational Linguistics}[C]\@, \bibyear{2002}\thinspace{}\textnormal{:
+  }\bibpages{311\thinspace{}\textnormal{--}\thinspace{}318}\@.
+
+\bibitem{napoles2015ground}
+\bibauthor{NAPOLES C\@, SAKAGUCHI K\@, POST M, et~al}\@. \bibtitle{Ground truth
+  for grammatical error correction metrics}\bibmark{[A]}\@.
+  \bibbooktitle{Proceedings of the 53rd Annual Meeting of the Association for
+  Computational Linguistics and the 7th International Joint Conference on
+  Natural Language Processing (Volume 2: Short Papers)}[C]\@,
+  \bibyear{2015}\thinspace{}\textnormal{:
+  }\bibpages{588\thinspace{}\textnormal{--}\thinspace{}593}\@.
+
+\end{thebibliography}

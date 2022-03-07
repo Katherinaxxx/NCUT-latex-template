@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+The style file: data/gbt7714-2005-whu.bst
+A level-1 auxiliary file: pages/abstract.aux
+A level-1 auxiliary file: pages/chapter1.aux
+A level-1 auxiliary file: pages/chapter2.aux
+A level-1 auxiliary file: pages/chapter3.aux
+A level-1 auxiliary file: pages/chapter4.aux
+A level-1 auxiliary file: pages/chapter5.aux
+A level-1 auxiliary file: pages/chapter6.aux
+A level-1 auxiliary file: pages/ref.aux
+A level-1 auxiliary file: pages/output.aux
+A level-1 auxiliary file: pages/thanks.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: pages/refs.bib
+Warning--Require address: chawla2009data
+Warning--Require address: villani2008optimal
+Warning--Require citedate: rao-tetreault-2018-dear
+You've used 31 entries,
+            3131 wiz_defined-function locations,
+            886 strings with 12011 characters,
+and the built_in function-call counts, 52007 in all, are:
+= -- 5766
+> -- 107
+< -- 245
++ -- 4637
+- -- 352
+* -- 1378
+:= -- 5944
+add.period$ -- 0
+call.type$ -- 31
+change.case$ -- 152
+chr.to.int$ -- 0
+cite$ -- 34
+duplicate$ -- 7318
+empty$ -- 1888
+format.name$ -- 304
+if$ -- 13880
+int.to.chr$ -- 0
+int.to.str$ -- 31
+missing$ -- 0
+newline$ -- 120
+num.names$ -- 31
+pop$ -- 685
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 517
+stack$ -- 0
+substring$ -- 6183
+swap$ -- 1298
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 663
+width$ -- 33
+write$ -- 406
+(There were 3 warnings)
